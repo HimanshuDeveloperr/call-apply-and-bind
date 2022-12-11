@@ -1,0 +1,13 @@
+we can create common method for two different objects with different properties 
+with the use of call apply and bind.
+
+
+1:- call 
+it takes two parameters one is the place where you want to apply that method and second is the argument of the function/method you r calling and execute the method in your object you called.
+
+2:- apply
+it will do as the name suggest apply the argument we will give to our function and execute the code behaves similar to call .
+
+3:- bind 
+it gives the bound function containing the  methods of the function which its is bound to
+and we can execute / call our methods invoking this fucntion also with the appropiate arguments that it will accept.
